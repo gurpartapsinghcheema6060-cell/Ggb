@@ -1,0 +1,6 @@
+{
+  "name": "Khazana Resort",
+  "description": "Premium demo website for Khazana Resort, a luxury wedding venue and event resort in Batala, Punjab, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
